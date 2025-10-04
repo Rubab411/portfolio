@@ -10,11 +10,7 @@ function Blog() {
             title: 'React vs WordPress',
             description: 'Which One Should You Choose for Your Project?',
         },
-         {
-            image: p2,
-            title: 'React vs WordPress',
-            description: 'Which One Should You Choose for Your Project?',
-        },
+       
        
     ]
     return (
