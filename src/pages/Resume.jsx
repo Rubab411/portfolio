@@ -8,7 +8,7 @@ function Resume() {
     const Education = [
         {
             institute: 'BBSUL Karachi',
-            year: '2022 - Present',
+            year: '2022 - 2025',
             courseName: 'Bachelors in Information Technology'
         },
         {

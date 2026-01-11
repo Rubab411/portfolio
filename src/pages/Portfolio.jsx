@@ -6,6 +6,7 @@ import './pages.css'
 import p1 from '../assets/images/p1pic.png';
 import p2 from '../assets/images/p2pic.png';
 import p3 from '../assets/images/p3pic.png';
+import p4 from '../assets/images/p4pic.png';
 function Portfolio() {
     const mywork = [
         {
@@ -25,15 +26,11 @@ function Portfolio() {
             Tool: 'Reactjs,Bootstrap',
         },
         {
-            image: '',
+            image: 'p4',
             title: 'Document verification using NFC',
             Tool: 'MERN',
         },
-        {
-            image: '',
-            title: 'Quizz APP',
-            Tool: 'Reactjs firebase',
-        },
+       
     ]
     return (
         <>
