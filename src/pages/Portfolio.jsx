@@ -22,7 +22,7 @@ function Portfolio() {
         },
         {
             image: p3,
-            title: 'Personal Portfolio',
+            title: 'Personal portfolio',
             Tool: 'Reactjs,Bootstrap',
         },
         {
