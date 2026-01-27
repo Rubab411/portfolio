@@ -26,7 +26,7 @@ function Portfolio() {
             Tool: 'Reactjs,Bootstrap',
         },
         {
-            image: 'p4',
+            image: p4,
             title: 'Document verification using NFC',
             Tool: 'MERN',
         },
